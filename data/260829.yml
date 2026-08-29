@@ -1,0 +1,60 @@
+about:
+  description: All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+  license: Apache-2.0
+  homepage: 
+  head: 82976d3
+  archived: false
+  latestVersion: v0.30.0
+  collectedAt: 2026-08-29T07:29:35Z
+timeline:
+  created: 2023-03-03
+  lastCommit: 2026-02-23
+  lastRelease: 2025-07-06
+popularity:
+  star: 10405
+  watcher: 97
+  fork: 741
+  release: 31
+  contributor: 35
+  pullRequest: 124
+  issue: 663
+language:
+  Rust: 543221
+  HTML: 88358
+  Shell: 21002
+  PowerShell: 7116
+  Nushell: 3542
+totalLine: 663239
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 0
+    openPR: 2
+    closedIssue: 0
+    openIssue: 3
+    commit: 0
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 0
+    openPR: 10
+    closedIssue: 0
+    openIssue: 10
+    commit: 0
+  last180d:
+    since: 2026-03-02
+    release: 0
+    mergedPR: 0
+    openPR: 29
+    closedIssue: 1
+    openIssue: 21
+    commit: 0
+  last360d:
+    since: 2025-09-03
+    release: 0
+    mergedPR: 0
+    openPR: 47
+    closedIssue: 37
+    openIssue: 48
+    commit: 8
