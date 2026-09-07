@@ -5,15 +5,15 @@ about:
   head: 82976d3
   archived: false
   latestVersion: "v0.30.0"
-  collectedAt: 2026-09-07T04:51:15Z
+  collectedAt: 2026-09-07T19:38:01Z
 timeline:
   created: 2023-03-03
   lastCommit: 2026-02-23
   lastRelease: 2025-07-06
 popularity:
-  star: 10435
+  star: 10434
   watcher: 100
-  fork: 742
+  fork: 741
   release: 31
   contributor: 35
   pullRequest: 872
@@ -83,7 +83,7 @@ total:
   commit: 989
 ---
 path: /home/runner/.x-repo/github.com/sigoden/aichat
-collectedAt: 2026-09-07T04:51:17Z
+collectedAt: 2026-09-07T19:38:02Z
 loc:
   Rust:
     code: 15239
@@ -144,7 +144,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:51:17+00:00
+  collectedAt: 2026-09-07T19:38:03+00:00
   platform:
     darwin/arm64:
       name:  aichat-v0.30.0-aarch64-apple-darwin.tar.gz
