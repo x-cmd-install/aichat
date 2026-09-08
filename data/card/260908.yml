@@ -5,13 +5,13 @@ about:
   head: 82976d3
   archived: false
   latestVersion: "v0.30.0"
-  collectedAt: 2026-09-08T02:06:06Z
+  collectedAt: 2026-09-08T04:49:39Z
 timeline:
   created: 2023-03-03
   lastCommit: 2026-02-23
   lastRelease: 2025-07-06
 popularity:
-  star: 10436
+  star: 10435
   watcher: 100
   fork: 743
   release: 31
@@ -83,7 +83,7 @@ total:
   commit: 989
 ---
 path: /home/runner/.x-repo/github.com/sigoden/aichat
-collectedAt: 2026-09-08T02:06:06Z
+collectedAt: 2026-09-08T04:49:41Z
 loc:
   Rust:
     code: 15239
