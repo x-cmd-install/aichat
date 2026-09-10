@@ -12,7 +12,7 @@ All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Ag
 x install aichat
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **18,309** 行代码（覆盖前 5 种语言、共 **56** 个文件）。
 
@@ -37,7 +37,7 @@ x install aichat
 
 ## 流行度
 
-- **Star**: 10,433 · **Fork**: 743 · **开放 issue**: 663 · **贡献者**: 35
+- **Star**: 10,434 · **Fork**: 743 · **开放 issue**: 663 · **贡献者**: 35
 
 ## 累计统计
 
@@ -88,4 +88,4 @@ aichat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:54:20Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:09:32Z._

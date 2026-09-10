@@ -37,7 +37,7 @@ Total: **18,309** lines of code across **56** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,433 · **Forks**: 743 · **Open issues**: 663 · **Contributors**: 35
+- **Stars**: 10,434 · **Forks**: 743 · **Open issues**: 663 · **Contributors**: 35
 
 ## Totals (cumulative)
 
@@ -88,4 +88,4 @@ Install metadata for aichat lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:54:19Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:09:32Z._
