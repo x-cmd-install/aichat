@@ -22,7 +22,21 @@ x install aichat
 - **Latest**: `v0.30.0` (2025-07-06)
 - **Last commit**: 2026-02-23
 - **Assets in release**: 10
-- **Published**: 2025-07-06T23:48:31Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [aichat-v0.30.0-aarch64-apple-darwin.tar.gz](https://github.com/sigoden/aichat/releases/download/v0.30.0/aichat-v0.30.0-aarch64-apple-darwin.tar.gz) | 4.8 MiB | `native/darwin/arm64` |
+| [aichat-v0.30.0-aarch64-pc-windows-msvc.zip](https://github.com/sigoden/aichat/releases/download/v0.30.0/aichat-v0.30.0-aarch64-pc-windows-msvc.zip) | 4.9 MiB | `native/win/arm64` |
+| [aichat-v0.30.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/sigoden/aichat/releases/download/v0.30.0/aichat-v0.30.0-aarch64-unknown-linux-musl.tar.gz) | 5.2 MiB | `native/linux/arm64/musl` |
+| [aichat-v0.30.0-arm-unknown-linux-musleabihf.tar.gz](https://github.com/sigoden/aichat/releases/download/v0.30.0/aichat-v0.30.0-arm-unknown-linux-musleabihf.tar.gz) | 4.9 MiB | `native/linux/arm/musl` |
+| [aichat-v0.30.0-armv7-unknown-linux-musleabihf.tar.gz](https://github.com/sigoden/aichat/releases/download/v0.30.0/aichat-v0.30.0-armv7-unknown-linux-musleabihf.tar.gz) | 4.9 MiB | `native/linux/arm/musl` |
+| [aichat-v0.30.0-i686-pc-windows-msvc.zip](https://github.com/sigoden/aichat/releases/download/v0.30.0/aichat-v0.30.0-i686-pc-windows-msvc.zip) | 4.6 MiB | `native/win/x64` |
+| [aichat-v0.30.0-i686-unknown-linux-musl.tar.gz](https://github.com/sigoden/aichat/releases/download/v0.30.0/aichat-v0.30.0-i686-unknown-linux-musl.tar.gz) | 5.2 MiB | `native/linux/x86/musl` |
+| [aichat-v0.30.0-x86_64-apple-darwin.tar.gz](https://github.com/sigoden/aichat/releases/download/v0.30.0/aichat-v0.30.0-x86_64-apple-darwin.tar.gz) | 5.0 MiB | `native/darwin/x64` |
+| [aichat-v0.30.0-x86_64-pc-windows-msvc.zip](https://github.com/sigoden/aichat/releases/download/v0.30.0/aichat-v0.30.0-x86_64-pc-windows-msvc.zip) | 5.0 MiB | `native/win/x64` |
+| [aichat-v0.30.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/sigoden/aichat/releases/download/v0.30.0/aichat-v0.30.0-x86_64-unknown-linux-musl.tar.gz) | 5.5 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
@@ -57,8 +71,8 @@ Total: **18,309** lines of code across **56** files in the top 5 languages.
 Install metadata for aichat lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `aichat` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/aichat.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/aichat.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:53:56Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:53:01Z._
