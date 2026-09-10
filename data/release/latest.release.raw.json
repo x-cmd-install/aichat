@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5464580,
       "digest": "sha256:eb1cd0948569404c5d9d01c10b32b902e11f8231073315456454dec246bdf26e",
-      "download_count": 4231,
+      "download_count": 4233,
       "created_at": "2025-07-06T23:49:40Z",
       "updated_at": "2025-07-06T23:49:40Z",
       "browser_download_url": "https://github.com/sigoden/aichat/releases/download/v0.30.0/aichat-v0.30.0-aarch64-unknown-linux-musl.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5252563,
       "digest": "sha256:89df8c4ccd6dad310ac713eb5d550494ae7fa14722cde346588fab38ff4afd8f",
-      "download_count": 10434,
+      "download_count": 10447,
       "created_at": "2025-07-06T23:51:37Z",
       "updated_at": "2025-07-06T23:51:38Z",
       "browser_download_url": "https://github.com/sigoden/aichat/releases/download/v0.30.0/aichat-v0.30.0-x86_64-pc-windows-msvc.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5759120,
       "digest": "sha256:6b0cc08c5ceb551dc52bfac2221752f82215be5908c70605d655e9b91ab1557c",
-      "download_count": 24064,
+      "download_count": 24099,
       "created_at": "2025-07-06T23:49:28Z",
       "updated_at": "2025-07-06T23:49:29Z",
       "browser_download_url": "https://github.com/sigoden/aichat/releases/download/v0.30.0/aichat-v0.30.0-x86_64-unknown-linux-musl.tar.gz"
