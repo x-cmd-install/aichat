@@ -37,22 +37,22 @@ Total: **18,309** lines of code across **56** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,494 · **Forks**: 749 · **Open issues**: 664 · **Contributors**: 35
+- **Stars**: 10,500 · **Forks**: 750 · **Open issues**: 665 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 746 · **Open PRs**: 54 · **Closed issues**: 613 · **Open issues**: 51 · **Commits**: 989
+- **Releases**: 31 · **Merged PRs**: 746 · **Open PRs**: 54 · **Closed issues**: 613 · **Open issues**: 52 · **Commits**: 989
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-13 | 0 | 0 | 7 | 0 | 4 | 0 |
-| 90d | 2026-07-14 | 0 | 0 | 8 | 0 | 7 | 0 |
-| last180d | 2026-04-15 | 0 | 0 | 22 | 0 | 15 | 0 |
-| 360d | 2025-10-17 | 0 | 0 | 49 | 10 | 48 | 5 |
-| last720d | 2024-10-22 | 8 | 170 | 54 | 284 | 51 | 225 |
+| 30d | 2026-09-13 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-08-14 | 0 | 0 | 7 | 0 | 4 | 0 |
+| 90d | 2026-07-15 | 0 | 0 | 8 | 0 | 7 | 0 |
+| last180d | 2026-04-16 | 0 | 0 | 22 | 0 | 16 | 0 |
+| 360d | 2025-10-18 | 0 | 0 | 49 | 10 | 49 | 5 |
+| last720d | 2024-10-23 | 8 | 168 | 54 | 282 | 52 | 223 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for aichat lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:06:46Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:04:13Z._
