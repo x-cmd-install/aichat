@@ -37,7 +37,7 @@ Total: **18,309** lines of code across **56** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,507 · **Forks**: 747 · **Open issues**: 665 · **Contributors**: 35
+- **Stars**: 10,510 · **Forks**: 747 · **Open issues**: 665 · **Contributors**: 35
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **18,309** lines of code across **56** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 2 | 0 | 2 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 8 | 0 | 3 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 8 | 0 | 6 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 18 | 0 | 17 | 0 |
-| 360d | 2025-10-27 | 0 | 0 | 49 | 8 | 50 | 5 |
-| last720d | 2024-11-01 | 7 | 163 | 54 | 273 | 53 | 214 |
+| 30d | 2026-09-23 | 0 | 0 | 2 | 0 | 2 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 6 | 0 | 3 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 8 | 0 | 6 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 18 | 0 | 17 | 0 |
+| 360d | 2025-10-28 | 0 | 0 | 49 | 8 | 50 | 5 |
+| last720d | 2024-11-02 | 7 | 162 | 54 | 273 | 53 | 212 |
 
 ## Release assets
 
@@ -69,6 +69,16 @@ Total: **18,309** lines of code across **56** files in the top 5 languages.
 | [aichat-v0.30.0-x86_64-pc-windows-msvc.zip](https://github.com/sigoden/aichat/releases/download/v0.30.0/aichat-v0.30.0-x86_64-pc-windows-msvc.zip) | 5.0 MiB | `native/win/x64` |
 | [aichat-v0.30.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/sigoden/aichat/releases/download/v0.30.0/aichat-v0.30.0-x86_64-unknown-linux-musl.tar.gz) | 5.5 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **28** distros on [repology.org](https://repology.org/project/aichat). **23** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.30.0` | ✅ latest |
+| Homebrew | `0.30.0` | ✅ latest |
+| Nix unstable | `0.30.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for aichat lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `aichat` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -78,4 +88,4 @@ Install metadata for aichat lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:51:27Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:55:55Z._
