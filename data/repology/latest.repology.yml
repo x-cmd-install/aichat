@@ -1,15 +1,10 @@
-- repo: aosc
-  srcname: app-vibe/aichat
-  binname: aichat
+- repo: homebrew
+  srcname: aichat
   visiblename: aichat
-  version: 0.30.0
+  version: HEAD
   origversion: null
-  status: newest
-  summary: Command-line AI assistant supporting multiple LLM providers
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - utils
+  status: rolling
+  summary: All-in-one AI-Powered CLI Chat & Copilot
 - repo: alt_p11
   srcname: aichat
   binnames:
@@ -26,15 +21,6 @@
     - Apache-2.0 or MIT
   categories:
     - Sciences/Computer science
-- repo: scoop
-  subrepo: main
-  binname: aichat
-  visiblename: aichat
-  version: 0.30.0
-  origversion: null
-  status: newest
-  licenses:
-    - MIT|Apache
 - repo: altsisyphus
   srcname: aichat
   binnames:
@@ -51,6 +37,18 @@
     - Apache-2.0 or MIT
   categories:
     - Sciences/Computer science
+- repo: aosc
+  srcname: app-vibe/aichat
+  binname: aichat
+  visiblename: aichat
+  version: 0.30.0
+  origversion: null
+  status: newest
+  summary: Command-line AI assistant supporting multiple LLM providers
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
 - repo: arch
   subrepo: extra
   srcname: aichat
@@ -106,13 +104,6 @@
   version: 0.30.0
   origversion: null
   status: newest
-  summary: All-in-one AI-Powered CLI Chat & Copilot
-- repo: homebrew
-  srcname: aichat
-  visiblename: aichat
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: All-in-one AI-Powered CLI Chat & Copilot
 - repo: liguros_stable
   srcname: sci-ml/aichat
@@ -294,6 +285,15 @@
   summary: All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents
   licenses:
     - MIT OR Apache-2.0
+- repo: scoop
+  subrepo: main
+  binname: aichat
+  visiblename: aichat
+  version: 0.30.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT|Apache
 - repo: t2
   srcname: aichat
   visiblename: aichat
