@@ -145,6 +145,28 @@
     - Apache-2
   categories:
     - textproc
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: aichat
+  binname: aichat
+  visiblename: aichat
+  version: 0.30.0
+  origversion: 0.30.0-4
+  status: newest
+  summary: All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents
+  licenses:
+    - MIT OR Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: aichat
+  binname: aichat
+  visiblename: aichat
+  version: 0.30.0
+  origversion: 0.30.0-4
+  status: newest
+  summary: All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents
+  licenses:
+    - MIT OR Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: aichat
